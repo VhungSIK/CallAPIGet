@@ -3,6 +3,10 @@ package com.example.callapiget;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import com.google.gson.Gson;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 

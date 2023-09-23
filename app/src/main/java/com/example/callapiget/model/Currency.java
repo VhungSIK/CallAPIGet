@@ -1,4 +1,4 @@
-package com.example.callapiget;
+package com.example.callapiget.model;
 
 public class Currency {
     private boolean success;
